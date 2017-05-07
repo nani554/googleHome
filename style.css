@@ -1,0 +1,54 @@
+nav ul{
+	padding:20px;
+
+}
+nav ul li{
+	display: inline;
+	padding:0px 10px;
+}
+.bell-icon{
+	border-radius: 50%;
+	background: #ccc;
+	width:20px;
+}
+li img{
+	height:20px;
+	width:30px;
+	border-radius: 50%;
+}
+
+section img{
+	height: 100px;
+	width:300px;
+}
+section{
+	margin-bottom: 2%;
+	margin-top:15%;
+
+}
+figcaption{
+	font-size:20px;
+	position:absolute;
+	right:156px;
+	top:77px;
+}
+.fa-microphone{
+    position: relative;
+    top: -22px;
+    right: 10px;
+}
+.reference{
+	height:110px;
+	width:145px;
+	border:1px solid #ccc;
+
+}
+.pdng-right{
+	padding-right: 0px;
+}
+.pdng-left{
+	padding-left:0px;
+}
+.col-md-12{
+	margin-bottom: 1%;
+}
